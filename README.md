@@ -3,3 +3,4 @@
 
 # Table of Contents
 1. [Conversions](./conversions)
+2. [Notes](./notes)
